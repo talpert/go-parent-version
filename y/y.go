@@ -1,3 +1,3 @@
 package y
 
-const Y = "y"
+const Y = "y-update"
